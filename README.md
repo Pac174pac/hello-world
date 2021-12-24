@@ -1,3 +1,3 @@
-# hello-world
-name - Daniil Filatov
-email - fialtov2303@icloud.com
+First tests changes
+Confict creation
+Another conflict request
